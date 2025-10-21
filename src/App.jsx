@@ -1,3 +1,4 @@
+import './App.css';
 import React, { useState, useEffect, useCallback, Fragment } from 'react';
 import { Transition } from '@headlessui/react';
 import { initializeApp } from 'firebase/app';
